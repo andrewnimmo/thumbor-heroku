@@ -1,7 +1,7 @@
 # Deploy thumbor on Heroku in one click
 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/StephaneBour/thumbor-heroku)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/andrewnimmo/thumbor-heroku)
 
 
 Deploy [Thumbor](https://github.com/thumbor/thumbor) in one click.
