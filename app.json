@@ -8,6 +8,9 @@
     "buildpacks": [
         {
             "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/pmor/image-optim-buildpack"
         }
     ],
     "stack": "heroku-20"
