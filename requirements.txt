@@ -4,5 +4,5 @@ tornado==6.1
 colorful==0.5.4
 opencv-python-headless==4.5.5.64
 opencv-engine==1.0.1
-remotecv==3.0.0
+# remotecv==3.0.0
 pycurl==7.45.1
