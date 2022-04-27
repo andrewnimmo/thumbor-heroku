@@ -7,7 +7,7 @@
     "repository": "https://github.com/andrewnimmo/thumbor-heroku",
     "buildpacks": [
         {
-            "url": "heroku/python",
+            "url": "heroku/python"
         },
         {
             "url": "https://github.com/pmor/image-optim-buildpack.git"
